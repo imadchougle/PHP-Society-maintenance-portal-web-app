@@ -32,9 +32,23 @@ The integration process involves configuring the payment gateway API, creating p
 
 2. Extract the folder into xampp > htdocs 
 
-3. Create a instamojo payment account and enter the details in required in pay3.php file
+3. Create a instamojo payment account and enter the details in required in pay3.php file, Add your API KEY and Auth Token
 
-3. Now start the Apache and Mysql server from xampp 
+4. Create a database named maintenance and a table called "maintenance_tb1", make 4 colums, roomNo, payment_id, payment_status and payment_request_id
+
+5. Now start the Apache and Mysql server from xampp 
+
+6. open your browser and enter the http://localhost/your-folder-name/demo.php
+
+7. Start doing any payment first for testing purpose
+
+8. Once payment successfull check your database, payment status would be updated there
+
+9. Open the secretary.py file from there just enter the room number and you can check the status of payment and update it in database directly 
+
+10. If room number 101 has paid and from secretary portal you make changes to it if you update and enter 00 then go to website and refresh it the payment status would be unpaid
+
+11. Run the flask application behind make sure you have the pdf march_notice in the same directory notice board is integrated in python 
 
 
 

@@ -50,5 +50,10 @@ The integration process involves configuring the payment gateway API, creating p
 
 11. Run the flask application behind make sure you have the pdf march_notice in the same directory notice board is integrated in python 
 
+![Screenshot (68)](https://user-images.githubusercontent.com/54437743/228026183-cdc6758d-a811-4b3e-9be6-352c0f4e06c2.png)
+
+
+![Screenshot (67)](https://user-images.githubusercontent.com/54437743/228026214-de082cf1-b573-4f49-bfdb-de3d78208003.png)
+
 
 

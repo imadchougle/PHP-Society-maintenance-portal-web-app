@@ -48,7 +48,9 @@ The integration process involves configuring the payment gateway API, creating p
 
 10. If room number 101 has paid and from secretary portal you make changes to it if you update and enter 00 then go to website and refresh it the payment status would be unpaid
 
-11. Run the flask application behind make sure you have the pdf march_notice in the same directory notice board is integrated in python 
+11. Run the flask application behind make sure you have the pdf march_notice in the same directory notice board is integrated in python
+
+12. notice.py is the flask application Notice board button will only run when flask app is running
 
 ![Screenshot (68)](https://user-images.githubusercontent.com/54437743/228026183-cdc6758d-a811-4b3e-9be6-352c0f4e06c2.png)
 

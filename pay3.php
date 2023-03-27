@@ -1,8 +1,8 @@
 <?php
 require('./instamojo.php');
 
-const API_KEY ="test_cec59d825a93c5af1dd945974a1";
-const AUTH_TOKEN = "test_3afa35111b66d801ef23ff38563";
+const API_KEY = "Your apt - key";
+const AUTH_TOKEN = "Your_auth-token";
 
 
 if(isset($_POST['paynow'])){

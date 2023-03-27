@@ -23,6 +23,18 @@ The integration process involves configuring the payment gateway API, creating p
 
 •	To provide a platform for secretary to manage maintenance requests, monitor progress, and displays payments status of each Room.
 
-## STEPS TO RUN
+
+![Screenshot (66)](https://user-images.githubusercontent.com/54437743/228023411-138e6e73-d5a6-4ac6-9c61-68c9e384e096.png)
+
+## Steps to Run the project
+
+1. Download Xammp Server portal
+
+2. Extract the folder into xampp > htdocs 
+
+3. Create a instamojo payment account and enter the details in required in pay3.php file
+
+3. Now start the Apache and Mysql server from xampp 
+
 
 

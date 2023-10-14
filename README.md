@@ -42,7 +42,7 @@ The integration process involves configuring the payment gateway API, creating p
 
 7. Start doing any payment first for testing purpose
 
-8. Once payment successfull check your database, payment status would be updated there
+8. Once payment successfull check the database, payment status would be updated there
 
 9. Open the secretary.py file from there just enter the room number and you can check the status of payment and update it in database directly 
 
